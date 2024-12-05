@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RajeshKeni
-- 👀 I’m interested in development of new devices/instruments, design of new applications in embedded systems.
+- 👀 I’m a Embedded Software Developer having experience in different fields. 
+- I work of developement of new devices/instrument and design new applications in embedded systems.
 - 🌱 I’m currently learning Python for Linux platform
 - 💞️ I’m looking to collaborate on Embedded C/C++, Python programming.
 - 📫 How to reach me raj.pacecon@gmail.com
